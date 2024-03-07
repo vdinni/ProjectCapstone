@@ -31,5 +31,6 @@ An overview of the model is depicted in Figure 1. The standard Transformer recei
 4. Run all the cells of notebook
 
 **Metrics**
+
 ![image](https://github.com/vdinni/ProjectCapstone/assets/21176541/d5c14fa7-4402-420a-bfa3-741939641c52)
 
