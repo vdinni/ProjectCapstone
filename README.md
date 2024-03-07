@@ -26,6 +26,10 @@ An overview of the model is depicted in Figure 1. The standard Transformer recei
 
 **Steps to run the notebook:**
 1. Please make sure the dataset is downloaded. The dataset is already split inot train and test (80/20).
-2. Download the folder going_modular which has functions for prediction and plotting the curves.
-3. Open the notebook and setup the environment to GPU as this rquires time and memory. Colab Pro should be good enough.
+2. Download the folder going_modular and file helper_functions.py which has functions for prediction and plotting the curves.
+3. Open the notebook and setup the environment to GPU as this rquires time and memory. 
 4. Run all the cells of notebook
+
+**Metrics**
+![image](https://github.com/vdinni/ProjectCapstone/assets/21176541/d5c14fa7-4402-420a-bfa3-741939641c52)
+
