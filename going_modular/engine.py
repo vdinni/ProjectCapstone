@@ -54,8 +54,8 @@ def train_step(model: torch.nn.Module,
         # 4. Loss backward
         loss.backward()
 		
-		#restrain from vanishing/exploding gradients
-		torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
+	#restrain from vanishing/exploding gradients
+	torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
 		
         # 5. Optimizer step
         optimizer.step()
