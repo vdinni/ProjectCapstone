@@ -24,8 +24,6 @@ Figure 1: Model overview. We split an image into fixed-size patches, linearly em
 
 An overview of the model is depicted in Figure 1. The standard Transformer receives as input a 1D sequence of token embeddings. To handle 2D images, we reshape the image x into R(HxWxC) into a sequence of flattened 2D patches xp to R(N x (P^2 x C), where (H,W) is the resolution of the original image, C is the number of channels, (P, P) is the resolution of each image patch, and N = HW/P**2 is the resulting number of patches, which also serves as the effective input sequence length for the Transformer.
 
-![image](https://github.com/vdinni/ProjectCapstone/assets/21176541/15c391c4-2d7d-47a5-ae0f-43c78b18d3ee)
-.
 
 **Steps to run the notebook:**
 1. Please make sure the dataset is downloaded. The dataset is already split inot train and test (80/20).
