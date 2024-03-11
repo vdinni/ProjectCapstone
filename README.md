@@ -27,7 +27,7 @@ An overview of the model is depicted in Figure 1. The standard Transformer recei
 
 **Steps to run the notebook:**
 1. Please make sure the repository is cloned or downloaded. The dataset is already split into train and test (80/20).
-2. Download the folder going_modular, this contains multiple files for training the data, saving the model and to evaluate the models. The file helper_functions.py which has functions for prediction and plotting the curves.
+2. The folder going_modular contains multiple files for training the data, saving the model and to evaluate the models. The file helper_functions.py which has functions for prediction and plotting the curves.
 3. Open the notebook and setup the environment to GPU as this rquires time and memory. 
 4. Run all the cells of notebook
 
