@@ -26,12 +26,18 @@ An overview of the model is depicted in Figure 1. The standard Transformer recei
 
 
 **Steps to run the notebook:**
-1. Please make sure the dataset is downloaded. The dataset is already split inot train and test (80/20).
+1. Please make sure the repository is cloned or downloaded. The dataset is already split into train and test (80/20).
 2. Download the folder going_modular, this contains multiple files for training the data, saving the model and to evaluate the models. The file helper_functions.py which has functions for prediction and plotting the curves.
 3. Open the notebook and setup the environment to GPU as this rquires time and memory. 
 4. Run all the cells of notebook
 
 **Metrics**
 
-![image](https://github.com/vdinni/ProjectCapstone/assets/21176541/d5c14fa7-4402-420a-bfa3-741939641c52)
+
+![image](https://github.com/vdinni/ProjectCapstone/assets/21176541/35ce5b11-1fec-4ae8-a7ee-c626fca0491a)
+
+
+![image](https://github.com/vdinni/ProjectCapstone/assets/21176541/2db60788-9d6c-4bde-9ca8-6425a2105363)
+
+
 
